@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
 }
-
 nav {
   display: flex;
   flex-direction: row;
@@ -204,8 +203,8 @@ nav {
   padding: 120px;
 }
 .Sec-1-part-1 {
-  width: 1360px;
-  height: 152px;
+  width: auto;
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -213,8 +212,8 @@ nav {
   gap: 16px;
 }
 .big-text {
-  width: 1360px;
-  height: 116px;
+  width: auto;
+  height: auto;
   color: rgba(0, 25, 49, 1);
   font-family: system-ui;
   font-style: Bold;
@@ -226,8 +225,8 @@ nav {
   text-transform: capitalize;
 }
 .small-text {
-  width: 1360px;
-  height: 20px;
+  width: auto;
+  height: auto;
   color: rgba(98, 115, 130, 1);
   font-family: system-ui;
   font-style: Regular;
@@ -245,7 +244,7 @@ nav {
   gap: 24;
 }
 .card {
-  width: 322px;
+  width: autopx;
   height: 300px;
   display: flex;
   flex-direction: column;
@@ -269,7 +268,7 @@ nav {
   color: rgba(255, 255, 255, 1);
 }
 .card-text {
-  width: 322px;
+  width: auto;
   height: 300px;
   display: flex;
   flex-direction: column;
