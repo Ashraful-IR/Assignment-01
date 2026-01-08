@@ -50,3 +50,11 @@ button{
     text-align: center;
     text-transform: capitalize;
 }
+.hero-sec{
+    width: 100%;
+    height: 674px;
+}
+.hero-sec img{
+    width: 100%;
+    height: 100%;
+}
