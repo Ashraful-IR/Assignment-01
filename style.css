@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  
 }
 nav {
   display: flex;
@@ -539,6 +540,9 @@ footer {
   line-height: 20px;
   letter-spacing: 0%;
   text-align: left;
+  display: flex;
+  align-items: center;
+
   
 }
 .s2-point img {
@@ -546,6 +550,7 @@ footer {
   height: 20px;
   color: rgba(48, 184, 104, 1);
   padding: 0.5px;
+ 
 }
 .righ-contai {
   width: 700px;
